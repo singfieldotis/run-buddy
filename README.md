@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy
 
 ## Purpose
 A website that offers fitness training services 
@@ -12,3 +12,5 @@ https://singfieldotis.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Otis Singfield 
+
+### ©️2021 Run Buddy, Inc 
